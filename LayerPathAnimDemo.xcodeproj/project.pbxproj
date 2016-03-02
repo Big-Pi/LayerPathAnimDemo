@@ -46,8 +46,6 @@
 		0E4557A21C8484DA002E0738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E4557AB1C848574002E0738 /* LinePathDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinePathDemo.h; sourceTree = "<group>"; };
 		0E4557AC1C848574002E0738 /* LinePathDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinePathDemo.m; sourceTree = "<group>"; };
-		0E4557AF1C8490AB002E0738 /* HandWrittingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HandWrittingViewController.h; sourceTree = "<group>"; };
-		0E4557B01C8490AB002E0738 /* HandWrittingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HandWrittingViewController.m; sourceTree = "<group>"; };
 		0E4557B11C8490AB002E0738 /* TextPathHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextPathHelper.h; sourceTree = "<group>"; };
 		0E4557B21C8490AB002E0738 /* TextPathHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextPathHelper.m; sourceTree = "<group>"; };
 		0E4557B51C849498002E0738 /* AnyPathDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnyPathDemo.h; sourceTree = "<group>"; };
@@ -153,8 +151,6 @@
 				0E4557B91C8494A7002E0738 /* TextPathDemo.m */,
 				0E4557B11C8490AB002E0738 /* TextPathHelper.h */,
 				0E4557B21C8490AB002E0738 /* TextPathHelper.m */,
-				0E4557AF1C8490AB002E0738 /* HandWrittingViewController.h */,
-				0E4557B01C8490AB002E0738 /* HandWrittingViewController.m */,
 			);
 			name = TextPath;
 			sourceTree = "<group>";
@@ -456,6 +452,7 @@
 				0E4557A71C8484DA002E0738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0E4557A81C8484DA002E0738 /* Build configuration list for PBXNativeTarget "LayerPathAnimDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +461,7 @@
 				0E4557AA1C8484DA002E0738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

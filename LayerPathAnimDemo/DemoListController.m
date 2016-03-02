@@ -22,8 +22,6 @@
                                       @{@"Circle":@"AnyPathDemo"},
                                       @{@"Text":@"TextPathDemo"}
                                       ]];
-    
-    NSArray *array= [[NSBundle mainBundle]pathsForResourcesOfType:@"storyboardc" inDirectory:@""];
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
